@@ -1,5 +1,5 @@
 # write a program to detect double space in string.
 
-name = "My name is Raushan Kumar Tiwari"
+name = "My name is Raushan Kumar  Tiwari"
 
-print(name.find(""))
+print(name.find("  "))
